@@ -9,7 +9,8 @@ Gemini:<img width="1408" height="768" alt="image" src="https://github.com/user-a
 
 Allucinated ChatGPT:<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/32c264c5-e3c2-4450-96bf-ebb24eb73e90" />
 
-(LOCAL) Stable Diffusion 1.5: Still generating
+(LOCAL) Stable Diffusion 1.5: <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/93caa93f-0119-4e39-954b-9d850f686124" />
+
 
 SD 1.5 Negative Prompt: (worst quality:1.4), (low quality:1.4), lowres, blurry, out of focus, jpeg artifacts, compression artifacts, pixelated, noisy, grainy, bad anatomy, bad proportions, deformed body, disfigured, malformed limbs, extra limbs, missing limbs, extra fingers, missing fingers, fused fingers, poorly drawn hands, poorly drawn feet, malformed hands, malformed feet, poorly drawn face, asymmetrical eyes, cross-eyed, distorted face, duplicate, cloned objects, floating objects, unnatural pose, warped perspective, distorted geometry, bad lighting, oversaturated, undersaturated, unrealistic textures, plastic skin, watermark, signature, text, logo, username, cropped, out of frame, unfinished, sketch
 
